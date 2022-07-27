@@ -30,4 +30,4 @@ ReactJS Framework,
 Reactstrap
 
 
-<p align="center"> Made with ❤ by <a href="https://github.com/Prakhar2100">Prakhar Kochar</a></p>
+
