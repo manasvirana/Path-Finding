@@ -8,6 +8,7 @@ function dfs(startNode, endNode){
     while(stack.length > 0){
         var curr = stack[stack.length-1]
         visitedNodes.push(curr)
+        
 
         if(curr === endNode){
             var temp1 = curr;

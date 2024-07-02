@@ -8,6 +8,7 @@ import { Button} from 'reactstrap';
 const cols = 20;
 const rows = 9;
 
+
 //Creating a grid-view which can be randomised later
 //Here 99 represents the walls in the grid
 const wallgrid = [

@@ -14,4 +14,5 @@ const Cell = ({isStart, isEnd, row, col, iswall}) =>{
     )
 }
 
+
 export default Cell;

@@ -2,6 +2,7 @@ function heruistic(a,b){
     //Manhattan distance
     var d = Math.abs(a.x - a.y) + Math.abs(b.x-b.y);
     return d;
+    
 }
 
 function Astar(source, destination){

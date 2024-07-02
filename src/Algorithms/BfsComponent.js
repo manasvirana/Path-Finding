@@ -4,6 +4,7 @@ function bfs(startNode, endNode){
     var path = []
     var queue = [];
     queue.push(startNode);
+    
 
     while(queue.length > 0){
         var curr = queue[0]

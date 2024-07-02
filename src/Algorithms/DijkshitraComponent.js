@@ -11,6 +11,7 @@ function Dijkshitra(source, destination){
         for(var i=0; i < stack.length; i++){
             if(stack[i].f < stack[ind].f){
                 ind = i;
+                
             }
         }
 

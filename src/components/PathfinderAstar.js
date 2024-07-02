@@ -5,6 +5,7 @@ import './styling/Cell.css'
 import Astar from '../Algorithms/AstarComponent';
 import { Button} from 'reactstrap';
 
+
 const cols = 20;
 const rows = 9;
 
